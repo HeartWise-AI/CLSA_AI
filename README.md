@@ -59,3 +59,7 @@ fairseq-signals (`/media/data1/ravram/CLSA_validation_files/manuscript/tools/ven
 - Paths are absolute to the lab server.
 
 See `SKILL.md` for the agent-facing procedure to rerun or extend these analyses.
+
+## Licence
+
+Code: MIT (see `LICENSE`). The licence covers this code only; CLSA and MHI data remain under their own access terms, and model weights under the terms of their Hugging Face repository.
